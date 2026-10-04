@@ -1,0 +1,34 @@
+[
+  {
+    "id": "stacks-lifo",
+    "question": "How does a stack decide which item to remove?",
+    "source": "data_structures.txt",
+    "content": "A stack is an abstract data type that follows last-in, first-out (LIFO) ordering. The most recently pushed item is the first item popped. Stacks are used for function calls and undo operations.",
+    "expected_terms": ["last in first out", "lifo", "most recently pushed"],
+    "expected_source": "data_structures.txt"
+  },
+  {
+    "id": "photosynthesis-energy",
+    "question": "What happens to light energy during photosynthesis?",
+    "source": "biology.txt",
+    "content": "During photosynthesis, chlorophyll absorbs light energy. The plant converts this energy into chemical energy stored in glucose, using carbon dioxide and water.",
+    "expected_terms": ["light energy", "chemical energy", "glucose"],
+    "expected_source": "biology.txt"
+  },
+  {
+    "id": "matrix-eigenvectors",
+    "question": "What does an eigenvector represent for a linear transformation?",
+    "source": "linear_algebra.txt",
+    "content": "An eigenvector of a linear transformation is a nonzero vector whose direction is unchanged by the transformation. The transformation scales it by its eigenvalue.",
+    "expected_terms": ["direction is unchanged", "eigenvalue", "scaled"],
+    "expected_source": "linear_algebra.txt"
+  },
+  {
+    "id": "database-normalization",
+    "question": "Why normalize relational database tables?",
+    "source": "databases.txt",
+    "content": "Database normalization organizes relational tables to reduce duplicated data and prevent insertion, update, and deletion anomalies. Normal forms describe increasingly strict rules for table structure.",
+    "expected_terms": ["duplicated data", "anomalies", "insertion"],
+    "expected_source": "databases.txt"
+  }
+]

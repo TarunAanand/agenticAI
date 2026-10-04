@@ -1,0 +1,1 @@
+"""StudyMate AI application package."""
